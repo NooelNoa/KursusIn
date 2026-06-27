@@ -66,6 +66,7 @@ Jalankan program
 go run main.go
 ```
 
-## Author
+## Authors
 
-Imanuel Surya Sahputra
+- Imanuel Surya Sahputra
+- Ritchie Prudence Mulia Pribadi
